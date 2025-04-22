@@ -19,7 +19,7 @@ Apple MusicのネイティブWindowsアプリ向けのDiscord Rich Presenceク�
 
 ## インストール
 
-リリースは[こちら](https://github.com/PKBeam/AMWin-RP/releases)で確認できます。
+リリースは[こちら](https://github.com/darui3018823/AppleMusic_DiscRP/releases)で確認できます。
 
 すでに[.NET 7.0 ランタイム](https://dotnet.microsoft.com/ja-jp/download/dotnet/7.0)をインストールしている、またはインストール可能な場合は、NoRuntimeリリースをダウンロードしてください。
 

@@ -7,7 +7,7 @@
 
 本リポジトリでは以下の変更や追加を行っています：
 
-- 日本語 README の追加
+- 日本語 README の編集
 - ドキュメントの構造調整
 - 個人利用を想定した一部の調整
 - カスタムバージョンとしての管理
@@ -30,7 +30,7 @@ originally created by **PKBeam**. The original project is a fantastic work, and 
 
 This customized repository includes the following changes:
 
-- Added Japanese README
+- Edited Japanese README
 - Adjusted documentation structure
 - Minor changes for private use
 - Maintained as a custom version

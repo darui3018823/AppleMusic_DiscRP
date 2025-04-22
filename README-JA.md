@@ -1,5 +1,11 @@
 # AMWin-RP
 
+> ⚠️ **注意：このリポジトリは非公式の改変版です**  
+このリポジトリは、本家 [`AMWin-RP`](https://github.com/PKBeam/AMWin-RP) に関係のない第三者（darui3018823）によって作成・調整されたものです。  
+本アプリケーションによるいかなる損害・不具合についても、当方および本家の開発者は一切の責任を負いかねます。  
+本家のオリジナル版は、以下のリンクからご確認いただけます：  
+👉 [https://github.com/PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP)
+
 Apple MusicのネイティブWindowsアプリ向けのDiscord Rich Presenceクライアントです。Last.FMのscrobblingにも対応しています。
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/PKBeam/AMWin-RP/total)  

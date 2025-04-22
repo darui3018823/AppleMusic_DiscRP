@@ -13,7 +13,7 @@ To access the official version of the project, please visit:
 A Discord Rich Presence client for Apple Music's native Windows app.  
 Last.FM scrobbling is also supported!
 
-[日本語 (Japanese README)](https://github.com/PKBeam/AMWin-RP/blob/master/README-JA.md)
+[日本語 (Japanese README)](https://github.com/darui3018823/AppleMusic_DiscRP/blob/master/README-JA.md)
 
 ![image](https://github.com/PKBeam/AMWin-RP/assets/18737124/dcc7dfa6-5504-4556-b62a-ab67cb0b0951)
 
